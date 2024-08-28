@@ -14,7 +14,7 @@ In order to run this program run the command 'make kilo'. Then './kilo' which wi
 The user can also run './kilo <filename>' to open a pre-existing file. For example 
 './kilo kilo.c' will open the source code of this project:
 ![kilo2](Kilo2.png)
-![kilo3](Kilo3.png)
+
 
 
   
